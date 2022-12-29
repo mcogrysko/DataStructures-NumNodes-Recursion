@@ -1,7 +1,7 @@
 # DataStructures-NumNodes-Recursion
 
 Mike Ogrysko<br>
-Data Structures 605.202<br>
+Data Structures 605.202 - JHU MS Data Science Program<br>
 Lab 2 - AdjMatrix<br>
 
 java version "1.8.0_121"<br>
