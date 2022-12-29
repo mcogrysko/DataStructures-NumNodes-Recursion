@@ -1,0 +1,209 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputMissingSizes.txt" "PathsGraphOutputMissingSizes.txt"
+Reading "PathsGraphInputMissingSizes.txt" and writing to "PathsGraphOutputMissingSizes.txt"
+
+Adjacency List Paths: 
+
+
+0
+
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+0
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found

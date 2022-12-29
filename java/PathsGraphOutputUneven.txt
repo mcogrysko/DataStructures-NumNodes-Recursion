@@ -1,0 +1,177 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputUneven.txt" "PathsGraphOutputUneven.txt"
+Reading "PathsGraphInputUneven.txt" and writing to "PathsGraphOutputUneven.txt"
+
+Adjacency List Paths: 
+
+
+4
+0 1 1 0 
+1 1 1 1 
+6 0 1 0 
+1 1 0 0 
+
+
+Paths from 1 to 1:
+1->2->1  
+1->2->4->1  
+
+Paths from 1 to 2:
+1->2  
+
+Paths from 1 to 3:
+1->2->3  
+1->3  
+
+Paths from 1 to 4:
+1->2->4  
+
+Paths from 2 to 1:
+2->1  
+2->4->1  
+
+Paths from 2 to 2:
+2->1->2  
+2->4->1->2  
+2->4->2  
+
+Paths from 2 to 3:
+2->1->3  
+2->3  
+2->4->1->3  
+
+Paths from 2 to 4:
+2->4  
+
+Paths from 3 to 1:
+No Path Found
+
+Paths from 3 to 2:
+No Path Found
+
+Paths from 3 to 3:
+No Path Found
+
+Paths from 3 to 4:
+No Path Found
+
+Paths from 4 to 1:
+4->1  
+4->2->1  
+
+Paths from 4 to 2:
+4->1->2  
+4->2  
+
+Paths from 4 to 3:
+4->1->2->3  
+4->1->3  
+4->2->1->3  
+4->2->3  
+
+Paths from 4 to 4:
+4->1->2->4  
+4->2->4  
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+0
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+3
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+Paths from 1 to 1:
+1->2->1  
+1->2->3->1  
+1->3->1  
+1->3->2->1  
+
+Paths from 1 to 2:
+1->2  
+1->3->2  
+
+Paths from 1 to 3:
+1->2->3  
+1->3  
+
+Paths from 2 to 1:
+2->1  
+2->3->1  
+
+Paths from 2 to 2:
+2->1->2  
+2->1->3->2  
+2->3->1->2  
+2->3->2  
+
+Paths from 2 to 3:
+2->1->3  
+2->3  
+
+Paths from 3 to 1:
+3->1  
+3->2->1  
+
+Paths from 3 to 2:
+3->1->2  
+3->2  
+
+Paths from 3 to 3:
+3->1->2->3  
+3->1->3  
+3->2->1->3  
+3->2->3  
